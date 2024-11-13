@@ -79,13 +79,14 @@ In our Bank Loan Report project, we recognize the need for a comprehensive 'Deta
 
 # Snapshot of Dashboard (Power BI Service)
 
-![dashboard_snapo](https://user-images.githubusercontent.com/102996550/174096257-11f1aae5-203d-44fc-bfca-25d37faf3237.jpg)
+![Summary_snapshot](![Screenshot (258)](https://github.com/user-attachments/assets/8915faf1-6c55-477c-90d4-efa64a5e3f3e)
 
- 
- # Report Snapshot (Power BI DESKTOP)
+![Overview_snapshot](![Screenshot (260)](https://github.com/user-attachments/assets/1cbf0455-7963-4b0a-a4e2-7f4effaf23c6)
+)
 
- 
-![Dashboard_upload](https://user-images.githubusercontent.com/102996550/174074051-4f08287a-0568-4fdf-8ac9-6762e0d8fa94.jpg)
+![Details_snapshot](![Screenshot (258)](https://github.com/user-attachments/assets/49ededdf-4eb5-45e3-ae8a-5a9024662e27)
+)
+
 
 # Insights
 
@@ -99,7 +100,5 @@ Following inferences can be drawn from the dashboard;
 
    Number of bad loan applications = 5333 (13.8 %)
 
-   
+   Thus, higher number of customers are good, who  pay their loan amount with interest on time.
 
-
-           thus, higher number of customers are good who pay their amount at time
